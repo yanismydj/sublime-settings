@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+function(req, res, next) {
+  ${1:this}
+});
+]]></content>
+  <tabTrigger>frr</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

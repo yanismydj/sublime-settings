@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+context("${1:}", function() {
+  ${2}
+});
+]]></content>
+  <tabTrigger>con</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

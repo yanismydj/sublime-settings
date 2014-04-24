@@ -1,4 +1,4 @@
 sublime-settings
 ================
 
-My Sublime Text settings
+Yan's Sublime Text settings
